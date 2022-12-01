@@ -24,14 +24,7 @@ public class FinalClassActor {
         String activities;
         String awards;
         int active_years;
-        void playing()
-        {
-            System.out.println("Actors will play");
-        }
-        void acting()
-        {
-            System.out.println("Actors will act");
-        }
+        
     }
     class malayalam-actor extends actor
     {
