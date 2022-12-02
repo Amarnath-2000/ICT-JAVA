@@ -9,12 +9,12 @@ package pen;
  * @author ELCOT
  */
 public class pen_name {
-    String pen_name;
+    String name;
     String nip_type;
     void display_nip()
     
     {
-        System.out.println("The nip type of the pen is "+pen_name + " is "+ nip_type);
+        System.out.println("The nip type of the pen is "+name + " is "+ nip_type);
     }
     
 }

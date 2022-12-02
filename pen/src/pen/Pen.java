@@ -16,8 +16,7 @@ public class Pen {
     public static void main(String[] args) {
         // TODO code application logic here
         pen_name ballpoint=new pen_name();
-        ballpoint.pen_name="Ballpoint";
-        ballpoint.pen_name="renolds pen";
+        ballpoint.name="Ballpoint";
         ballpoint.nip_type="point nip";
         ballpoint.display_nip();
        
