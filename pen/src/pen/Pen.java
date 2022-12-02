@@ -2,19 +2,36 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package anon;
+package pen;
 
 /**
  *
  * @author ELCOT
  */
-public class Anon {
+public class Pen {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        pen_name ballpoint=new pen_name();
+        ballpoint.pen_name="Ballpoint";
+        ballpoint.pen_name="renolds pen";
+        ballpoint.nip_type="point nip";
+        ballpoint.display_nip();
+       
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
     }
     
 }
